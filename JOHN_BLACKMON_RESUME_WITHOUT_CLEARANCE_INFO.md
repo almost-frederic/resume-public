@@ -1,4 +1,4 @@
-# JOHN BLACKMON RESUME WITHOUT CLEARANCE INFO
+# JOHN BLACKMON RESUME WITH CLEARANCE INFO
 
 JOHN BLACKMON
 Systems Administrator, Architect, and Engineer
@@ -105,7 +105,7 @@ Senior AIX Systems Administrator
 
 ### Operating Systems
 
-IBM AIX; Red Hat Enterprise Linux (RHEL) and its rebuilds/derivatives, including Oracle Linux (OL, with and without UEK), AlmaLinux, CentOS, and Fedora; Debian/Ubuntu; Kali Linux
+IBM AIX; Red Hat Enterprise Linux (RHEL) and its rebuilds/derivatives, including Oracle Linux (OL, UEK/RHCK), AlmaLinux, CentOS, and Fedora; Debian/Ubuntu; Kali Linux
 
 ### Cloud
 
