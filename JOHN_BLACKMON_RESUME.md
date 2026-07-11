@@ -1,7 +1,7 @@
-# JOHN BLACKMON RESUME WITH CLEARANCE INFO
+# JOHN BLACKMON RESUME
 
 JOHN BLACKMON
-Systems Administrator, Architect, and Engineer
+Systems Engineer and Architect
 Long Beach, MS | <johnblackmonjr@proton.me> | 985-306-2187
 linkedin.com/in/john-blackmon-b8126b162
 
@@ -11,11 +11,13 @@ linkedin.com/in/john-blackmon-b8126b162
 
 My career history spans twenty-five years of designing, architecting, and implementing solutions across a wide range of platforms and environments, with twenty years of experience implementing Department of Defense (DoD) security policies for Navy, Army, and Military Health System (MHS) environments. My areas of particular expertise include virtualization, security, and automation. I have a proven track record of acquiring new skills by self-study and am routinely assigned to tasks where acquisition of a new skill set is necessary.
 
+I also have substantial experience guiding colleagues and leading teams, and working successfully with difficult customers and co-workers. I can keep my cool in stressful situations and I'm good at distilling problems or challenges down to identify the core issues and key next steps: figuring out where effort can be applied right now to move forward.
+
 Some highlights of my experience follow:
 
+- Designing an enterprise replication/failover system for a Continuity of Operations (COOP) site for the NEP-Oc application deployed at Fleet Numerical Meteorology and Oceanography Center (FNMOC)
 - Architecting, building, deploying, and maintaining infrastructure and applications in AWS, DISA Defense Enterprise Computing Centers (DECCs), and naval oceanography environments
 - Automating security policy implementation and configuration with Ansible, SCAP, shell scripts, and Group Policy Objects (GPOs)
-- Designing an enterprise replication/failover system for a Continuity of Operations (COOP) site for the NEP-Oc application deployed at Fleet Numerical Meteorology and Oceanography Center (FNMOC)
 - Implementing public key infrastructure (PKI) in highly-secured environments
 - Writing and implementing Risk Management Framework (RMF) system security plans
 - Developing Infrastructure-as-Code (IaC) solutions in Terraform
@@ -174,12 +176,3 @@ IBM POWER/Power Systems (System p/pSeries), Dell servers, Cisco UCS
 - AWS Certified Solutions Architect (Associate)
 - Cisco Certified Network Associate (CCNA), Routing and Switching
 - CompTIA Linux+
-
-------------------------------------------------------------
-
-## EDUCATION
-
-------------------------------------------------------------
-
-University of Mississippi | Oxford, MS
-Studies in Biology
