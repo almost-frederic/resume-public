@@ -11,16 +11,14 @@ linkedin.com/in/john-blackmon-b8126b162
 
 My career history spans twenty-five years of designing, architecting, and implementing solutions across a wide range of platforms and environments, with twenty years of experience implementing Department of Defense (DoD) security policies for Navy, Army, and Military Health System (MHS) environments. My areas of particular expertise include virtualization, security, and automation. I have a proven track record of acquiring new skills by self-study and am routinely assigned to tasks where acquisition of a new skill set is necessary.
 
-I also have substantial experience guiding colleagues and leading teams, and working successfully with difficult customers and co-workers. I can keep my cool in stressful situations and I'm good at distilling problems or challenges down to identify the core issues and key next steps: figuring out where effort can be applied right now to move forward.
+I know how to tailor my approaches to people and organizations as needed. And I'm good at recognizing and resolving non-technical problems and impediments.
 
-Some highlights of my experience follow:
+A few examples of my experience or skills follow:
 
-- Designing an enterprise replication/failover system for a Continuity of Operations (COOP) site for the NEP-Oc application deployed at Fleet Numerical Meteorology and Oceanography Center (FNMOC)
+- Designing and building the enterprise replication/failover system for the NEP-Oc application deployed at Fleet Numerical Meteorology and Oceanography Center (FNMOC). This required being the bridge between agencies with diametrically opposed cultures, who didn't want the project and didn't want to work together.
 - Architecting, building, deploying, and maintaining infrastructure and applications in AWS, DISA Defense Enterprise Computing Centers (DECCs), and naval oceanography environments
 - Automating security policy implementation and configuration with Ansible, SCAP, shell scripts, and Group Policy Objects (GPOs)
-- Implementing public key infrastructure (PKI) in highly-secured environments
-- Writing and implementing Risk Management Framework (RMF) system security plans
-- Developing Infrastructure-as-Code (IaC) solutions in Terraform
+- Developing Infrastructure-as-Code (IaC) solutions in Terraform and Ansible
 
 ## PROFESSIONAL EXPERIENCE
 
