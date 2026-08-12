@@ -1,7 +1,7 @@
 # JOHN BLACKMON RESUME
 
 JOHN BLACKMON
-Systems Engineer and Architect
+Systems Engineer, Architect, and Administrator
 Long Beach, MS | <johnblackmonjr@proton.me> | 985-306-2187
 linkedin.com/in/john-blackmon-b8126b162
 
@@ -99,78 +99,35 @@ Senior AIX Systems Administrator
 
 - Served as senior systems administrator of IBM AIX systems for nine states and two territories, responsible for 23 support facilities, 11 state aviation officers and staff, and one of four depot-level facilities in the nation.
 
-## TECHNICAL SKILLS
+------------------------------------------------------------
+
+## CERTIFICATIONS
 
 ------------------------------------------------------------
 
-### Operating Systems
+These are current and actively maintained or do not expire.
 
-IBM AIX; Red Hat Enterprise Linux (RHEL) and its rebuilds/derivatives, including Oracle Linux (OL, UEK/RHCK), AlmaLinux, CentOS, and Fedora; Debian/Ubuntu; Kali Linux
-
-### Cloud
-
-Amazon Web Services (AWS), including AWS GovCloud
-
-### Automation & IaC
-
-Ansible, Terraform, Bash and Korn shell scripting, Git
-
-### Virtualization, Orchestration & Containers
-
-VMware vSphere/ESXi, Proxmox VE, Microsoft Hyper-V, PowerVM and Virtual I/O Server (VIOS), Oracle VM (OVM) and Oracle Linux Virtualization Manager (OLVM), libvirt and other KVM/QEMU frameworks, Kubernetes, LXC, CSM/PSSP
-
-### Storage
-
-Enterprise SAN/NAS, ZFS, TrueNAS SCALE and Core, NFS, SMB/CIFS, iSCSI
-
-### Security Frameworks & Compliance
-
-Risk Management Framework (RMF), NIST Cybersecurity Framework (CSF), DISA STIGs, SCAP/OpenSCAP, SCAP Security Guide (SSG)/ComplianceAsCode
-
-### Security Hardening & Mechanisms
-
-SELinux, fapolicyd, USBGuard, firewalld, FIPS encryption, LUKS, BitLocker
-
-### Endpoint & Vulnerability Management
-
-Trellix (formerly McAfee/HBSS ePO), ACAS and standalone Tenable Nessus
-
-### Scanning, Recon & Traffic Analysis
-
-Nmap, Wireshark, Suricata, Kali Linux
-
-### Monitoring & Logging
-
-Splunk, Zabbix, PRTG, syslog/rsyslog, SNMP, NetFlow, ntopng
-
-### Networking
-
-Cisco IOS, NX-OS, and Nexus switching; OPNsense
-
-### Infrastructure & Authentication Services
-
-BIND DNS and DNSSEC, Unbound, Postfix/SMTP, IMAP, Apache, Tomcat, WebSphere, Kerberos, Red Hat Identity Management (IdM, formerly IPA), SSSD, Active Directory and Group Policy, PKI and Smart Card Logon (SCL), CAC/PIV and YubiKey integration
-
-### Databases
-
-Oracle Database, IBM DB2, PostgreSQL, Amazon Aurora
-
-### Hardware
-
-IBM POWER/Power Systems (System p/pSeries), Dell servers, Cisco UCS
-
-------------------------------------------------------------
-
-## CERTIFICATIONS EARNED
-
-------------------------------------------------------------
-
-- Certified Information Systems Security Professional (CISSP), #646660
-- CompTIA SecurityX (formerly CASP) and CompTIA Security+ CE
-- ISACA Certified Information Security Manager (CISM)
 - IBM Certified Advanced Technical Expert (CATE), AIX
 - IBM AIX v7 Administrator Specialty
+- CompTIA SecurityX (formerly CASP) and CompTIA Security+ CE
+- CompTIA Linux+
+
+I've previously earned others on my own initiative outside of any particular employer or job requirements, either as official verification of skills or knowledge that I already possessed from my work experience, or simply to challenge myself or to satisfy my own curiosity.
+
+- Certified Information Systems Security Professional (CISSP), #646660
+- ISACA Certified Information Security Manager (CISM)
 - AWS Certified SysOps Administrator (Associate)
 - AWS Certified Solutions Architect (Associate)
 - Cisco Certified Network Associate (CCNA), Routing and Switching
-- CompTIA Linux+
+
+------------------------------------------------------------
+
+## EDUCATION
+
+------------------------------------------------------------
+
+### University of Mississippi - Oxford, MS (Fall 1998 - Spring 2001)
+
+Undergraduate Coursework toward B.S. in Biology (Pre-Medicine) - No Degree Conferred
+
+- Attended on the Frederic A. P. Barnard Scholarship, the university's highest academic scholarship, as part of a full merit-based award covering the complete cost of attendance.
