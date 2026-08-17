@@ -1,18 +1,12 @@
 # JOHN BLACKMON RESUME
 
 JOHN BLACKMON
+
 Systems Engineer, Architect, and Administrator
+
 Long Beach, MS | <johnblackmonjr@proton.me> | 985-306-2187
+
 linkedin.com/in/john-blackmon-b8126b162
-
-## CLEARANCE SUMMARY AND QUALIFICATIONS
-
-------------------------------------------------------------
-
-- Current Active Top Secret clearance (U.S. citizen, qualified for privileged access on classified and unclassified systems)
-- CompTIA SecurityX (formerly CASP) and Security+ certifications (8140 Proficiency Advanced for most "IT (Cyberspace)" work roles, 8570 IAT Level III with CompTIA Linux+ platform cert)
-- Previously held ISC2 CISSP and ISACA CISM and could re-acquire if needed (8140 Proficiency Advanced for most "Cybersecurity" work roles, 8570 IAM Level III)
-- 20+ years experience in various 8140 Advanced proficiency level roles
 
 ## PROFESSIONAL SUMMARY
 
