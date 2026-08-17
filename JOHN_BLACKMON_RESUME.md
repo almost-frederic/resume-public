@@ -1,11 +1,8 @@
 # JOHN BLACKMON RESUME
 
 JOHN BLACKMON
-
 Systems Engineer, Architect, and Administrator
-
 Long Beach, MS | <johnblackmonjr@proton.me> | 985-306-2187
-
 linkedin.com/in/john-blackmon-b8126b162
 
 ## PROFESSIONAL SUMMARY
