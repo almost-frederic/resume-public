@@ -70,7 +70,7 @@ Systems Administrator (January 2011 - March 2012)
 
 ### Blackmon Consulting - Long Beach, MS (January 2010 - January 2011)
 
-Owner and Chief Executive Officer
+Owner / Principal Consultant
 
 - Provided custom technology and security consulting services.
 
