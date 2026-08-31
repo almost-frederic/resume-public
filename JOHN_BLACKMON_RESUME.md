@@ -5,6 +5,8 @@ Systems Engineer, Architect, and Administrator\
 Long Beach, MS | <johnblackmonjr@proton.me> | 985-306-2187\
 linkedin.com/in/john-blackmon-b8126b162
 
+<!-- GENERATED FILE - assembled by `node build_resume.js` from modules/ (profile "default"). Edit the module files, not this one. -->
+
 ## PROFESSIONAL SUMMARY
 
 ------------------------------------------------------------
@@ -97,8 +99,6 @@ Senior AIX Systems Administrator
 
 - Served as senior systems administrator of IBM AIX systems for nine states and two territories, responsible for 23 support facilities, 11 state aviation officers and staff, and one of four depot-level facilities in the nation.
 
-------------------------------------------------------------
-
 ## CERTIFICATIONS
 
 ------------------------------------------------------------
@@ -117,8 +117,6 @@ I've previously earned others on my own initiative outside of any particular emp
 - AWS Certified SysOps Administrator (Associate)
 - AWS Certified Solutions Architect (Associate)
 - Cisco Certified Network Associate (CCNA), Routing and Switching
-
-------------------------------------------------------------
 
 ## EDUCATION
 
