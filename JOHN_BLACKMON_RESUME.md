@@ -127,3 +127,9 @@ I've previously earned others on my own initiative outside of any particular emp
 Undergraduate Coursework toward B.S. in Biology (Pre-Medicine) - No Degree Conferred
 
 - Attended on the Frederic A. P. Barnard Scholarship, the university's highest academic scholarship, as part of a full merit-based award covering the complete cost of attendance.
+
+## HOBBIES AND INTERESTS
+
+------------------------------------------------------------
+
+I am teaching myself lockpicking.
