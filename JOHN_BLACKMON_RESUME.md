@@ -16,6 +16,7 @@ My career history spans twenty-five years of designing, architecting, and implem
 A few examples of my experience or skills follow:
 
 - Designing and building the enterprise replication/failover system for the NEP-Oc application deployed at Fleet Numerical Meteorology and Oceanography Center (FNMOC)
+- Managing the full application stack of the DHSS ESSENCE medical surveillance application, used by the CDC during the 2009 swine flu pandemic
 - Architecting, building, deploying, and maintaining infrastructure and applications in AWS, DISA Defense Enterprise Computing Centers (DECCs), and naval oceanography environments
 - Automating security policy implementation and configuration with Ansible, SCAP, shell scripts, and Group Policy Objects (GPOs)
 - Developing Infrastructure-as-Code (IaC) solutions in Terraform and Ansible
@@ -80,8 +81,8 @@ Owner / Principal Consultant
 
 Senior Systems Engineer
 
-- Acted as lead engineer for the Defense Health Services Systems (DHSS) ESSENCE medical surveillance application for the Military Health System (MHS).
-- Managed WebSphere Application Server (WAS), IBM HTTP Server, Cognos 8 BI and ReportNet (CRN), and ESRI ArcIMS/ArcGIS, all on AIX V5.2/V5.3 on System p.
+- Acted as lead engineer for the Defense Health Services Systems (DHSS) ESSENCE medical surveillance application for the Military Health System (MHS), which was used by CDC during the 2009 swine flu pandemic.
+- Managed the full application stack: WebSphere Application Server (WAS), IBM HTTP Server, Cognos 8 BI and ReportNet (CRN), and ESRI ArcIMS/ArcGIS, all on AIX V5.2/V5.3 on System p.
 - Led a major upgrade of application components (WAS V5.1 to V6.1, CRN 1.1 to Cognos 8.4, and DB2 V8.1 to V9.5).
 - Created new development and test environments at the DISA Defense Enterprise Computing Center (DECC) Denver.
 
